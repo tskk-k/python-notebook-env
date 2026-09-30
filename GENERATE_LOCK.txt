@@ -1,0 +1,1 @@
+Run `uv lock` once after cloning/creating this project, then commit `uv.lock`.
